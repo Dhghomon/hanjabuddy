@@ -28,7 +28,7 @@ In comparison to the nearly 100% hanja newspaper title above, here we're already
 
 Next up:
 
-#Is hanja Chinese?
+# Is hanja Chinese?
 
 No. It's something that (obviously) wouldn't exist if not for Chinese, and owes its existence to that. But using hanja in Korean (and kanji in Japanese) has nothing to do with China. It's actually a bit similar to the countries Canada, Australia and the UK. These countries wouldn't exist in their current form if not for the British Empire, but on the other hand they don't operate with any concern with what the UK Prime Minister may think about this or that policy being discussed at the moment. There's a certain amount of influence back and forth between them all, but it's a sharing between equals and is in no way obligatory.
 
@@ -36,7 +36,7 @@ If you are a Korean and are talking about a term like the Japanese manga (漫画
 
 Another reason for hanja not being Chinese (or Japanese): the three countries each use their own system now. Japanese uses a somewhat simplified form, China a much more drastically simplified one (and even [tried to simplify it further](https://en.wikipedia.org/wiki/Second_round_of_simplified_Chinese_characters), thank all that's holy that it never happened). Korea, Taiwan and Hong Kong are some of the only places that still use the traditional hanja, and in Korea of course they have largely gone out of use so that pretty much leaves Taiwan as the largest bastion of hanja as written in Korea. (Note: Korean does have a few of its own hanja that are used nowhere else, but these are pretty rare and in small number.)
 
-#So why should I care about hanja?
+# So why should I care about hanja?
 
 Put simply, as a non-Korean (assuming you are), hanja give you an insight into the vocabulary that otherwise takes decades of use. Knowing a few hundred of them is a sort of shortcut to this. It works largely in the same way that knowing etymology of English words gives you insight into how they work:
 
@@ -50,7 +50,7 @@ That's sort of the role hanja can play for you as a non-Korean, especially if yo
 
 With this hanja evangelizing done, why Hanja Buddy?
 
-#Actually typing hanja
+# Actually typing hanja
 
 Typying kanji in Japanese is a breeze, and naturally typing Chinese in Chinese is a breeze as well (it's the only characters they use, after all). Let's write something in the three languages:
 
@@ -126,10 +126,10 @@ Finally click on 편, click on 便.
 
 All done! Six clicks instead of 67 keystrokes.
 
-#Study mode
+# Study mode
 The newest feature on Hanja Mode is study mode. Click on the Study button and you'll see a bunch of levels, which correspond to the Hanja Proficiency Test. Clicking on one of those will show you a random hanja meaning, and your job is to try to remember it from memory. For example if you click on 8급 (the easiest level) and get 사람 인, you'll want to try to write 人 from memory. If you don't know what it is, you can move the cursor in front of 인 to see the list of hanja and look through there, or just click on the answer key which will change it to 사람 인: 人.
 
 Which levels would I recommend? As a minimum, if you are interested in knowing all the hanja that (nearly all) Koreans are able to read, learn levels 8 to 6. You can see them all [here](https://namu.wiki/w/%ED%95%9C%EC%9E%90/%EB%AA%A9%EB%A1%9D/%EA%B8%89%EC%88%98%EB%B3%84). You can ignore the : after some of the pronunciations: this refers to vowel length which IMO shouldn't even be mentioned in teaching hanja anymore as it has mostly been lost except by the uber correct: academics, voice actors, reporters, etc. (Ever had a teacher correct your pronunciation of *what* as *wat* by saying *Don't you mean hwat*? It's similar to that) Personally I think even mentioning vowel length in tests does nothing but put up barriers to learning them.
 
-#Stuff left to do
+# Stuff left to do
 Hanja Buddy is written in Rust using egui, which is a new gui that is still in heavy development. One of the features left to fix is [input on iOS](https://github.com/emilk/egui/discussions/414). There are some other oddities with input and suffice to say it works best if you are on a PC and paste the text in. It's blazing fast, but still a bit rough around the edges. I've already found it useful for my own purposes though and resort to it quite a bit.
